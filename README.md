@@ -2,6 +2,8 @@
 
 > A static personal portfolio website serving as an early exploration into web design and front-end development.
 
+🌐 **Live Demo:** [View the archived portfolio here](https://ziadaboud0.github.io/Ziad_Aboud/)
+
 ## 📖 Overview
 
 This repository contains the source code for my very first personal portfolio website. Built primarily with **HTML** and **CSS**, this project was a foundational stepping stone that helped me grasp the basics of user interfaces, static asset management, and web structure before moving on to more complex software engineering and algorithmic problem-solving.
